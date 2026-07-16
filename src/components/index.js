@@ -1,0 +1,11 @@
+export { default as Navbar } from "./Navbar.vue";
+export { default as Hero } from "./Hero.vue";
+export { default as McqQuestionPapers } from "./McqQuestionPapers.vue";
+export { default as WhyMilestone } from "./WhyMilestone.vue";
+export { default as AllUnits } from "./AllUnits.vue";
+export { default as StudyMaterials } from "./StudyMaterials.vue";
+export { default as SuccessfulStudents } from "./SuccessfulStudents.vue";
+export { default as AboutUs } from "./AboutUs.vue";
+export { default as InfoBand } from "./InfoBand.vue";
+export { default as ContactUs } from "./ContactUs.vue";
+export { default as Footer } from "./Footer.vue";
