@@ -9,8 +9,8 @@
         অভিজ্ঞ "বস টিচার্স" প্যানেল নিয়ে।
       </p>
       <div class="d-flex flex-wrap justify-content-center gap-3 mb-5">
-        <a href="#contact" class="btn btn-enroll"><i class="bi bi-pencil-square me-2"></i>ভর্তি ফরম পূরণ করো</a>
-        <a href="#" target="_blank" class="btn btn-fb-hero"><i class="bi bi-facebook me-2"></i>ফেসবুক পেজ দেখো</a>
+        <a href="https://app.milestoneac.com" target="_blank" class="btn btn-fb-hero me-2">MCQ Exam দিতে Login করো </a>
+        <a href="#contact" class="btn btn-enroll"><i class="bi bi-pencil-square"></i>ভর্তি ফরম পূরণ করো</a>
       </div>
 
       <div class="row justify-content-center g-3">

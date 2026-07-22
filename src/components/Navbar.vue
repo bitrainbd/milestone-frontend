@@ -53,3 +53,17 @@ onUnmounted(() => {
 </nav>
 
 </template>
+
+
+<style scoped>
+.navbar-toggler-icon {
+  filter: invert(1) grayscale(100%) brightness(200%);
+}
+.navbar-toggler {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+
+</style>

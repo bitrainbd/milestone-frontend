@@ -146,6 +146,12 @@ footer ul li{margin-bottom:.5rem;}
 .chat-fab:hover{transform:scale(1.08); color:#fff;}
 .chat-fab.whatsapp{background:var(--wa); bottom:5.6rem;}
 .chat-fab.messenger{background:var(--fb); bottom:1.3rem;}
-
+ .btn-login{
+    margin-left: 15px;
+  }
 ::selection{background:var(--red);color:#fff;}
-@media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto;} *{transition:none !important;} }
+@media (prefers-reduced-motion: reduce){ 
+  html{scroll-behavior:auto;} 
+  *{transition:none !important;} 
+ 
+}
